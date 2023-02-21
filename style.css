@@ -17,7 +17,7 @@ input{
     padding: 10px;
 /* Added by Behzad */
     margin: 5px 0 10px 0;
-    /*Top_Right_Bottom_Left*/
+    /* Top_Right_Bottom_Left */
 }
 input[type="submit"]{
     background-color: rgb(184, 176, 176);
